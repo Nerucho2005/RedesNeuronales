@@ -31,7 +31,7 @@ Las tres partes están en un único notebook porque son acumulativas: el TP2 com
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook Softmax_MLP_Regularizacion_20Newsgroups_Ramiro_Grin.ipynb
+jupyter notebook TPs_1_2_y_3_Actualizados_Ramiro_Grin.ipynb
 ```
 
 En Colab basta con ejecutar la primera celda (`!pip install ...`). Se recomienda GPU para la Parte 3.
